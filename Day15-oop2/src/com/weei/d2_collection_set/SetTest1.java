@@ -1,5 +1,6 @@
 package com.weei.d2_collection_set;
 
+<<<<<<< HEAD
 import java.util.HashSet;
 import java.util.LinkedHashSet;
 import java.util.Set;
@@ -20,4 +21,7 @@ public class SetTest1 {
         System.out.println(set);
 
     }
+=======
+public class SetTest1 {
+>>>>>>> origin/master
 }
